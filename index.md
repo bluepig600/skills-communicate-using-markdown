@@ -4,3 +4,6 @@
 ```
 print("pizza is yummy!")
 ```
+- [x] Eat pizza
+- [ ] eatsomemore
+- [x] have fun!
